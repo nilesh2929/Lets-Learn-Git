@@ -1,0 +1,27 @@
+Git is used to track of our project code, who is doing what changes.
+
+1. First of all we have to make a setup of a git 
+        git config --global user.name "name"
+        git config --global user.email "email"
+
+2. To check name and email exist or not we have to check
+        git config --global user.name
+        git config --global user.email
+
+3. To make changes in config file
+        git config --edit
+        once saved changes, to exit .....esc :wq
+
+4.  To make folder with the help of command
+        mkdir  is command
+
+5. to move into that folder command is 
+        cd folder-name
+
+6. Then we have to initialize the git folder to make available on git
+        git init   
+
+7. After adding code to file we add to git, git add move code to staging area
+        git add .
+
+8.

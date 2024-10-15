@@ -5,4 +5,4 @@ function add(...sum){
     }
     console.log( summ)
 }
-add(3,5)
+add(3,5);
