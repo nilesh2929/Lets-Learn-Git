@@ -45,3 +45,5 @@ Git is used to track of our project code, who is doing what changes.
 14. If we want, that file should be ignored, and it should not move forward, then we have use gitignore
         touch .gitignore or by creatung file.
 
+15. After these the concept of github come to picture here we have to create project repo.
+        create repository 
