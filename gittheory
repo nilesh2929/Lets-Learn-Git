@@ -39,4 +39,7 @@ Git is used to track of our project code, who is doing what changes.
 12. Now we will create new branch from dev
         git checkout -b nilesh/taskname
 
-13. 
+13. TO merge a particular task on required branch we will go on that
+        git merge branch-name
+
+14
