@@ -33,4 +33,10 @@ Git is used to track of our project code, who is doing what changes.
 10. In log we can check our commit id, with the help of commit id we can checkout there directly.
         git checkout "commit id"
 
-11. 
+11. TO create new branch from master 
+        git checkout -b dev   <!-- To create new branch and directly checkout on that branch -->
+
+12. Now we will create new branch from dev
+        git checkout -b nilesh/taskname
+
+13. 
