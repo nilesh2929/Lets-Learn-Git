@@ -42,4 +42,6 @@ Git is used to track of our project code, who is doing what changes.
 13. TO merge a particular task on required branch we will go on that
         git merge branch-name
 
-14
+14. If we want, that file should be ignored, and it should not move forward, then we have use gitignore
+        touch .gitignore or by creatung file.
+
