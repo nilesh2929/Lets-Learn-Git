@@ -22,6 +22,15 @@ Git is used to track of our project code, who is doing what changes.
         git init   
 
 7. After adding code to file we add to git, git add move code to staging area
-        git add .
+        git add . or git add file_name
 
-8.
+8. Then here after these we have to commit the code
+        git commit -m "commnit Message"
+
+9. After these with the help of git log we can check commit id and modify as per requirements.
+        git log
+
+10. In log we can check our commit id, with the help of commit id we can checkout there directly.
+        git checkout "commit id"
+
+11. 
