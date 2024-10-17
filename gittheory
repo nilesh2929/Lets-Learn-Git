@@ -47,3 +47,9 @@ Git is used to track of our project code, who is doing what changes.
 
 15. After these the concept of github come to picture here we have to create project repo.
         create repository 
+
+16 To take a pull from master branch we have command 
+        git branch -M master or we can say branch-name
+
+17. To push a branch from one source to another destination we have
+        git push -u origin branch-name    we can do git push also
